@@ -7,7 +7,7 @@
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "vi",
     "languages": {
         "af": "Afrikaans",
         "ar": "العربية",
@@ -117,13 +117,24 @@
     "disableTokenFile": false,
     "iconsPrefixes": {
         "font-awesome": {
-            "brands": ["fab"],
-            "regular": ["far"],
-            "solid": ["fa", "fas"]
+            "brands": [
+                "fab"
+            ],
+            "regular": [
+                "far"
+            ],
+            "solid": [
+                "fa",
+                "fas"
+            ]
         },
         "moodle": {
-            "font-awesome": ["fam"],
-            "moodle": ["moodle"]
+            "font-awesome": [
+                "fam"
+            ],
+            "moodle": [
+                "moodle"
+            ]
         }
     },
     "clearIABSessionWhenAutoLogin": "android",
